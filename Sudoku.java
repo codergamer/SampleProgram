@@ -33,6 +33,7 @@ public class Sudoku {
 			}
 			return solveSudokuUtil(puzzle, currentRow, currentCol);
 		}
+		return 0;
 		
 	}
 
